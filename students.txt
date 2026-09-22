@@ -1,0 +1,8 @@
+1,Anu,Electronics
+2,Anjali,Electronics
+3,Ann,Electronics
+4,Nisika,Electronics
+5,Mohanapriya,Electronics
+6,Akhil,Civil
+7,Anandhu,Mechanical
+
