@@ -7,10 +7,9 @@ A Git-based Student Course Management Project for managing student and course in
 ##Project Modules
 -Student Details
 -Course Details
-
 ## Project Status
 -Student Details: Completed
--Course Details: Under Development
+-Course Details: Completed
 
 ## Developer Name
 Anagha 
